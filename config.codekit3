@@ -9,6 +9,16 @@
 	],
 "creatorBuild": "26268",
 "files": {
+	"\/basic.css": {
+		"aP": 1,
+		"bl": 0,
+		"ft": 16,
+		"ma": 0,
+		"oA": 0,
+		"oAP": "\/basic-min.css",
+		"oF": 0,
+		"oS": 3
+		},
 	"\/basic.scss": {
 		"aP": 1,
 		"bl": 0,
@@ -38,6 +48,13 @@
 		"oAP": "\/build\/main-min.css",
 		"oF": 0,
 		"oS": 3
+		},
+	"\/CNAME": {
+		"cB": 0,
+		"ft": 8192,
+		"oA": 0,
+		"oAP": "\/CNAME",
+		"oF": 0
 		},
 	"\/index.html": {
 		"cB": 0,
