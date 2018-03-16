@@ -1,3 +1,19 @@
 h1 {
   color: tomato;
 }
+
+ul {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(10rem, 1fr));
+  grid-gap: 1rem;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+}
+
+li {
+  background: salmon;
+  width: 10rem;
+  height: 10rem;
+  display: block;
+}
