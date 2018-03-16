@@ -1,2 +1,11 @@
+body {
+  font-family: "mr-eaves-sans", verdana;
+  font-weight: 300; }
+
 h1 {
-  color: deepskyblue; }
+  color: midnightblue;
+  font-family: "p22-zaner-pro-one", fantasy;
+  font-size: 2rem; }
+
+p {
+  font-size: 1rem; }

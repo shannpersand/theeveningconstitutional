@@ -1,3 +1,18 @@
+$font-display: "p22-zaner-pro-one", fantasy;
+$font-body: "mr-eaves-sans", verdana;
+
+
+body {
+  font-family: $font-body;
+  font-weight: 300;
+}
+
 h1 {
-  color: deepskyblue;
+  color: midnightblue;
+  font-family: $font-display;
+  font-size: 2rem;
+}
+
+p {
+  font-size: 1rem;
 }
